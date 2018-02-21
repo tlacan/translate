@@ -1,0 +1,1228 @@
+[[Uncategorized]]
+	[languageCode]
+		en = 
+		tags = ios-inspection
+		comment = Language code for this set of translations
+		de = 
+		es = 
+		fr = 
+	[about]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[account]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[addMedia]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[cancel]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[cannotSignOutForNow]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[checklists]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[choose]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[classify]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[close]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[comment]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[completed]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[connecting]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[connectionError]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[date]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[delete]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[describe]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[description]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[discardChanges]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[done]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[due]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[edit]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[error]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[faqs]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[feedback]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[flashOff]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[flashOn]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[information]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[inspection]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[inspections]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[library]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[licenses]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[media]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[next]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[no]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[none]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[noMedia]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[observation]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[observations]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[observationType]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[ok]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[password]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[picture]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[platform]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[preferences]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[preparing]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[qrCodeSigning]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[qrCodeSigningExplanation]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[removeAnnotations]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[removeAudio]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[removeImage]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[removeVideo]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[required]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[reset]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[save]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[session]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[send]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[selectADate]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[sendFeedbackExplanation]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[showLicenses]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[signIn]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[site]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[solved]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[start]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[success]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[synchronizing]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[text]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[title]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[toDo]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[type]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[unauthorizedAccessCamera]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[unauthorizedAccessMediaLibrary]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[unauthorizedAccessMicrophone]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[updating]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[uploadingFileNo_ios]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[user]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[validation]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[version]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[yes]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[act]
+		en = 
+		tags = ios-inspection
+		comment = third wizard step title
+		de = 
+		es = 
+		fr = 
+	[actionPlans]
+		en = 
+		tags = ios-inspection
+		comment = Action Plans
+		de = 
+		es = 
+		fr = 
+	[actionPlansWillBeSent]
+		en = 
+		tags = ios-inspection
+		comment = action plans will be sent
+		de = 
+		es = 
+		fr = 
+	[attachedActionPlansWarning]
+		en = 
+		tags = ios-inspection
+		comment = attached action plans
+		de = 
+		es = 
+		fr = 
+	[audio]
+		en = 
+		tags = ios-inspection
+		comment = audio media type
+		de = 
+		es = 
+		fr = 
+	[addAComment]
+		en = 
+		tags = ios-inspection
+		comment = add a comment to a question
+		de = 
+		es = 
+		fr = 
+	[authenticationErrorAlertTitle]
+		en = 
+		tags = ios-inspection
+		comment = Alert Title when a SSO authentication issue occurs
+		de = 
+		es = 
+		fr = 
+	[authenticationErrorAlertMessage]
+		en = 
+		tags = ios-inspection
+		comment = Alert Message when a SSO authentication issue occurs
+		de = 
+		es = 
+		fr = 
+	[authenticationErrorStep1Message]
+		en = 
+		tags = ios-inspection
+		comment = Explanation message on the authentication fallback wizard, to make sure the other apps are up to date
+		de = 
+		es = 
+		fr = 
+	[authenticationErrorStep2Message]
+		en = 
+		tags = ios-inspection
+		comment = Explanation message on the authentication fallback wizard, to flash the QR code again
+		de = 
+		es = 
+		fr = 
+	[cannotDeleteObservation]
+		en = 
+		tags = ios-inspection
+		comment = Could not delete Observation
+		de = 
+		es = 
+		fr = 
+	[cannotSelectOwnerTitle]
+		en = 
+		tags = ios-inspection
+		comment = title indicating that the owner can not be selected since connection is down
+		de = 
+		es = 
+		fr = 
+	[cannotSelectOwnerMessage]
+		en = 
+		tags = ios-inspection
+		comment = message indicating that the owner can not be selected since connection is down
+		de = 
+		es = 
+		fr = 
+	[chooseSelect]
+		en = 
+		tags = ios-inspection
+		comment = choose button title
+		de = 
+		es = 
+		fr = 
+	[chooseUnit]
+		en = 
+		tags = ios-inspection
+		comment = choose unit title in unit picker
+		de = 
+		es = 
+		fr = 
+	[confirmSignOutTitle]
+		en = 
+		tags = ios-inspection
+		comment = message for confirming sign out
+		de = 
+		es = 
+		fr = 
+	[confirmSignOutMessage]
+		en = 
+		tags = ios-inspection
+		comment = message for confirming sign out
+		de = 
+		es = 
+		fr = 
+	[contactUs]
+		en = 
+		tags = ios-inspection
+		comment = Contact Us
+		de = 
+		es = 
+		fr = 
+	[createdOnDevice]
+		en = 
+		tags = ios-inspection
+		comment = Created on device
+		de = 
+		es = 
+		fr = 
+	[createdOnServer]
+		en = 
+		tags = ios-inspection
+		comment = Created on server
+		de = 
+		es = 
+		fr = 
+	[creatingChecklist]
+		en = 
+		tags = ios-inspection
+		comment = Creating checklists
+		de = 
+		es = 
+		fr = 
+	[creatingChecklists]
+		en = 
+		tags = ios-inspection
+		comment = Creating checklists
+		de = 
+		es = 
+		fr = 
+	[createInspection]
+		en = 
+		tags = ios-inspection
+		de = 
+		es = 
+		fr = 
+	[current]
+		en = 
+		tags = ios-inspection
+		comment = category for inspections currently available
+		de = 
+		es = 
+		fr = 
+	[currentWeek]
+		en = 
+		tags = ios-inspection
+		comment = dashboard title on top
+		de = 
+		es = 
+		fr = 
+	[deleteObservation]
+		en = 
+		tags = ios-inspection
+		comment = delete observation confirmation
+		de = 
+		es = 
+		fr = 
+	[downloadingInspections]
+		en = 
+		tags = ios-inspection
+		comment = Downloading new inspections from the server in home view dashboard
+		de = 
+		es = 
+		fr = 
+	[dueDate]
+		en = 
+		tags = ios-inspection
+		comment = finding resolution due date
+		de = 
+		es = 
+		fr = 
+	[errorApplicationServer]
+		en = 
+		tags = ios-inspection
+		comment = application server error
+		de = 
+		es = 
+		fr = 
+	[enterAutoCompleteFieldNameHere]
+		en = 
+		tags = ios-inspection
+		comment = enter auto-complete field name
+		de = 
+		es = 
+		fr = 
+	[errorAuthInvalid]
+		en = 
+		tags = ios-inspection
+		comment = error authentication key is invalid
+		de = 
+		es = 
+		fr = 
+	[errorAuthExpired]
+		en = 
+		tags = ios-inspection
+		comment = error authentication key is expired
+		de = 
+		es = 
+		fr = 
+	[errorCreatingChecklist]
+		en = 
+		tags = ios-inspection
+		comment = error when creating the checklist
+		de = 
+		es = 
+		fr = 
+	[errorCreatingChecklistNetwork]
+		en = 
+		tags = ios-inspection
+		comment = error when creating the checklist due to missing network connection
+		de = 
+		es = 
+		fr = 
+	[errorDownloadActionPlans]
+		en = 
+		tags = ios-inspection
+		comment = Error message for error while downloading action plans
+		de = 
+		es = 
+		fr = 
+	[errorOtpInvalid]
+		en = 
+		tags = ios-inspection
+		comment = otp is invalid
+		de = 
+		es = 
+		fr = 
+	[errorRenewalInvalid]
+		en = 
+		tags = ios-inspection
+		comment = error renewal key is invalid
+		de = 
+		es = 
+		fr = 
+	[enterYourAnswer]
+		en = 
+		tags = ios-inspection
+		comment = Question place holder
+		de = 
+		es = 
+		fr = 
+	[errorMaxNumberOfDevicesReached]
+		en = 
+		tags = ios-inspection
+		comment = error indicating that the maximum number of devices reached
+		de = 
+		es = 
+		fr = 
+	[errorPasswordExpired]
+		en = 
+		tags = ios-inspection
+		comment = authentication step error: the password is expired
+		de = 
+		es = 
+		fr = 
+	[errorUnableToConnectToServer]
+		en = 
+		tags = ios-inspection
+		comment = error while connecting to the server
+		de = 
+		es = 
+		fr = 
+	[errorUserIdPasswordWrong]
+		en = 
+		tags = ios-inspection
+		comment = authentication step error: user id or password is wrong
+		de = 
+		es = 
+		fr = 
+	[errorSendChecklist]
+		en = 
+		tags = ios-inspection
+		comment = error when sending the checklist
+		de = 
+		es = 
+		fr = 
+	[errorSendChecklistNoNetwork]
+		en = 
+		tags = ios-inspection
+		comment = error when sending the checklist due to missing network connection
+		de = 
+		es = 
+		fr = 
+	[existingActionPlans]
+		en = 
+		tags = ios-inspection
+		comment = existing Action Plans button
+		de = 
+		es = 
+		fr = 
+	[gotoAppStore]
+		en = 
+		tags = ios-inspection
+		comment = go to the App Store
+		de = 
+		es = 
+		fr = 
+	[home]
+		en = 
+		tags = ios-inspection
+		comment = home button title
+		de = 
+		es = 
+		fr = 
+	[ICWStepChecklistsDescription]
+		en = 
+		tags = ios-inspection
+		comment = The text to be displayed on top of the second step ( Checklists ) of the Inspection Creation Wizard (ICW)
+		de = 
+		es = 
+		fr = 
+	[ICWStepInformationDescription]
+		en = 
+		tags = ios-inspection
+		comment = The text to be displayed on top of the first step ( Information ) of the Inspection Creation Wizard (ICW)
+		de = 
+		es = 
+		fr = 
+	[ICWStepValidationDescription]
+		en = 
+		tags = ios-inspection
+		comment = The text to be displayed on top of the third step ( Validation ) of the Inspection Creation Wizard (ICW)
+		de = 
+		es = 
+		fr = 
+	[inspectionRequiresUpdate]
+		en = 
+		tags = ios-inspection
+		comment = Mobile inspections not available on server
+		de = 
+		es = 
+		fr = 
+	[invalidQRCode]
+		en = 
+		tags = ios-inspection
+		comment = invalid QR code
+		de = 
+		es = 
+		fr = 
+	[loading]
+		en = 
+		tags = ios-inspection
+		comment = loading auto complete records
+		de = 
+		es = 
+		fr = 
+	[loginWelcomeTitle]
+		en = 
+		tags = ios-inspection
+		comment = login title
+		de = 
+		es = 
+		fr = 
+	[loginWelcomeMessage]
+		en = 
+		tags = ios-inspection
+		comment = login message
+		de = 
+		es = 
+		fr = 
+	[noActionPlans]
+		en = 
+		tags = ios-inspection
+		comment = There are no action plans
+		de = 
+		es = 
+		fr = 
+	[noObservationAvailable]
+		en = 
+		tags = ios-inspection
+		comment = there are no observation in observations listing view
+		de = 
+		es = 
+		fr = 
+	[noResults]
+		en = 
+		tags = ios-inspection
+		comment = no results for auto complete
+		de = 
+		es = 
+		fr = 
+	[notSynchronized]
+		en = 
+		tags = ios-inspection
+		comment = status on inspection
+		de = 
+		es = 
+		fr = 
+	[ongoingInspections]
+		en = 
+		tags = ios-inspection
+		comment = the ongoing inspections table header in home view dashboard
+		de = 
+		es = 
+		fr = 
+	[noOngoingInspections]
+		en = 
+		tags = ios-inspection
+		comment = there are no ongoing inspection in table header in home view dashboard
+		de = 
+		es = 
+		fr = 
+	[noInspections]
+		en = 
+		tags = ios-inspection
+		comment = there no inspections to be displayed in inspections screen from menu
+		de = 
+		es = 
+		fr = 
+	[overdue]
+		en = 
+		tags = ios-inspection
+		comment = category for Inspections that are overdue (end date in the past)
+		de = 
+		es = 
+		fr = 
+	[overdueInspectionWillBeSent]
+		en = 
+		tags = ios-inspection
+		comment = warning message when overdue Inspection will be sent
+		de = 
+		es = 
+		fr = 
+	[overdueInspectionWarning]
+		en = 
+		tags = ios-inspection
+		comment = overdue Inspection warning title
+		de = 
+		es = 
+		fr = 
+	[ownerActionPlan]
+		en = 
+		tags = ios-inspection
+		comment = action plan owner
+		de = 
+		es = 
+		fr = 
+	[passwordChangedTitle]
+		en = 
+		tags = ios-inspection
+		comment = Title for the alert indicating that the user must update its password
+		de = 
+		es = 
+		fr = 
+	[passwordChangedMessage]
+		en = 
+		tags = ios-inspection
+		comment = Message for the alert indicating that the user must update its password
+		de = 
+		es = 
+		fr = 
+	[passwordChangedWithSuccess]
+		en = 
+		tags = ios-inspection
+		comment = Message indicating that the user's password was updated successully
+		de = 
+		es = 
+		fr = 
+	[pleaseWait]
+		en = 
+		tags = ios-inspection
+		comment = Please wait
+		de = 
+		es = 
+		fr = 
+	[questionsAnswered]
+		en = 
+		tags = ios-inspection
+		comment = the percent of questions answered in the home view dashboard
+		de = 
+		es = 
+		fr = 
+	[questionHasSentActionPlans]
+		en = 
+		tags = ios-inspection
+		comment = question has sent action plans
+		de = 
+		es = 
+		fr = 
+	[questionNotEditable]
+		en = 
+		tags = ios-inspection
+		comment = question not editable
+		de = 
+		es = 
+		fr = 
+	[raiseAnAction]
+		en = 
+		tags = ios-inspection
+		comment = raise an action for action plans
+		de = 
+		es = 
+		fr = 
+	[records]
+		en = 
+		tags = ios-inspection
+		comment = records
+		de = 
+		es = 
+		fr = 
+	[removeObservation]
+		en = 
+		tags = ios-inspection
+		comment = title of the alert indicating that the previously set observation will be removed
+		de = 
+		es = 
+		fr = 
+	[removeObservationActionPlanMessage]
+		en = 
+		tags = ios-inspection
+		comment = message of the alert indicating that the previously set observation and action plan will be removed
+		de = 
+		es = 
+		fr = 
+	[removeObservationMessage]
+		en = 
+		tags = ios-inspection
+		comment = message of the alert indicating that the previously set observation will be removed
+		de = 
+		es = 
+		fr = 
+	[reportBug]
+		en = 
+		tags = ios-inspection
+		comment = Report Instabug bug
+		de = 
+		es = 
+		fr = 
+	[retake]
+		en = 
+		tags = ios-inspection
+		comment = Retake media
+		de = 
+		es = 
+		fr = 
+	[sendFeedback]
+		en = 
+		tags = ios-inspection
+		comment = Send Instabug feedback
+		de = 
+		es = 
+		fr = 
+	[sendingChecklist]
+		en = 
+		tags = ios-inspection
+		comment = Sending Checklist
+		de = 
+		es = 
+		fr = 
+	[sendingChecklists]
+		en = 
+		tags = ios-inspection
+		comment = Sending Checklists
+		de = 
+		es = 
+		fr = 
+	[signOut]
+		en = 
+		tags = ios-inspection
+		comment = sign out button in the preferences
+		de = 
+		es = 
+		fr = 
+	[successChecklistSent]
+		en = 
+		tags = ios-inspection
+		comment = success message for sending the checklist
+		de = 
+		es = 
+		fr = 
+	[synchronized]
+		en = 
+		tags = ios-inspection
+		comment = status on inspection
+		de = 
+		es = 
+		fr = 
+	[updatingActionPlans]
+		en = 
+		tags = ios-inspection
+		comment = updating action plans
+		de = 
+		es = 
+		fr = 
+	[updatingPassword]
+		en = 
+		tags = ios-inspection
+		comment = Message indicating that the password is being updated
+		de = 
+		es = 
+		fr = 
+	[useAudio]
+		en = 
+		tags = ios-inspection
+		comment = Use audio recording
+		de = 
+		es = 
+		fr = 
+	[video]
+		en = 
+		tags = ios-inspection
+		comment = video media type
+		de = 
+		es = 
+		fr = 
+	[EmptyChecklistDefinitionsPicker]
+		en = 
+		tags = ios-inspection
+		comment = no checklists availble in the inspectionn creation wizard step 2
+		de = 
+		es = 
+		fr = 
+	[EmptySitePicker]
+		en = 
+		tags = ios-inspection
+		comment = no sites availble in the inspectionn creation wizard step 1 site picker
+		de = 
+		es = 
+		fr = 
+	[EmptyTypePicker]
+		en = 
+		tags = ios-inspection
+		comment = no types availble in the inspectionn creation wizard step 1 type picker
+		de = 
+		es = 
+		fr = 
+	[EmptyTableDefaultMessage]
+		en = 
+		tags = ios-inspection
+		comment = default message for every table view controller with no data to display
+		de = 
+		es = 
+		fr = 
+	[NSCameraUsageDescription_ios_inspection]
+		en = 
+		tags = ios-inspection
+		comment = Message indicating why the camera is needed in the app
+		de = 
+		es = 
+		fr = 
+	[NSMicrophoneUsageDescription_ios_inspection]
+		en = 
+		tags = ios-inspection
+		comment = Message indicating why the microphone is needed in the app
+		de = 
+		es = 
+		fr = 
+	[NSPhotoLibraryUsageDescription_ios_inspection]
+		en = 
+		tags = ios-inspection
+		comment = Message indicating why the photo library access is needed in the app
+		de = 
+		es = 
+		fr = 
+	[youAnsweredXQuestions]
+		en = 
+		tags = ios-inspection
+		comment = Success View message indicating the number of questions that have been answered (placeholders to ignore during translation: %#@questions@)
+		de = 
+		es = 
+		fr = 
+	[XNonConformitiesWithObservations]
+		en = 
+		tags = ios-inspection
+		comment = Success View message indicating the number of observations linked to non conformities (placeholders to ignore during translation: %#@choices@, %#@observations@)
+		de = 
+		es = 
+		fr = 
+	[youAnsweredXQuestions_questions]
+		tags = ios-inspection
+		de[one] = 
+		de[other] = 
+		en[one] = 
+		en[other] = 
+		es[one] = 
+		es[other] = 
+		fr[one] = 
+		fr[other] = 
+	[XNonConformitiesWithObservations_choices]
+		tags = ios-inspection
+		de[one] = 
+		de[other] = 
+		en[one] = 
+		en[other] = 
+		es[one] = 
+		es[other] = 
+		fr[one] = 
+		fr[other] = 
+	[XNonConformitiesWithObservations_observations]
+		tags = ios-inspection
+		de[one] = 
+		de[other] = 
+		en[one] = 
+		en[other] = 
+		es[one] = 
+		es[other] = 
+		fr[one] = 
+		fr[other] = 
+	[XComments_comments]
+		tags = ios-inspection
+		de[one] = 
+		de[other] = 
+		en[one] = 
+		en[other] = 
+		es[one] = 
+		es[other] = 
+		fr[one] = 
+		fr[other] = 
+	[XActionPlans_actionPlans]
+		tags = ios-inspection
+		de[one] = 
+		de[other] = 
+		en[one] = 
+		en[other] = 
+		es[one] = 
+		es[other] = 
+		fr[one] = 
+		fr[other] = 
+	[XInspectionCompleted_inspectionCompleted]
+		tags = ios-inspection
+		de[one] = 
+		de[other] = 
+		en[one] = 
+		en[other] = 
+		es[one] = 
+		es[other] = 
+		fr[one] = 
+		fr[other] = 
